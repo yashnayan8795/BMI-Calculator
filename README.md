@@ -83,6 +83,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-[Your Name](https://github.com/yourusername)
+[Yash Nayan](https://github.com/yashnayan8795)
 
 Feel free to reach out if you have any questions or suggestions!
